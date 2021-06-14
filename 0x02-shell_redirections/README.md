@@ -1,0 +1,1 @@
+0- Escriba un guión que imprima "Hola, mundo", seguido de una nueva línea en la salida estándar
