@@ -1,0 +1,34 @@
+total 8
+drwxrwxrwx 1 jhon3425 jhon3425 4096 Sep 27 20:38 .
+drwxrwxrwx 1 jhon3425 jhon3425 4096 Sep 27 18:32 ..
+-rwxrwxrwx 1 jhon3425 jhon3425   32 Sep 27 20:00 0-hello_world
+-rwxrwxrwx 1 jhon3425 jhon3425   28 Sep 27 20:02 1-confused_smiley
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 10-no_more_js
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 100-empty_casks
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 101-gifs
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 102-acrostic
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 103-the_biggest_fan
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 11-directories
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 12-newest_files
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 13-unique
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 14-findthatword
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 15-countthatword
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 16-whatsnext
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 17-hidethisword
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 18-letteronly
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 19-AZ
+-rwxrwxrwx 1 jhon3425 jhon3425   28 Sep 27 20:04 2-hellofile
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 20-hiago
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 21-reverse
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 22-users_and_homes
+-rwxrwxrwx 1 jhon3425 jhon3425   39 Sep 27 20:08 3-twofiles
+-rwxrwxrwx 1 jhon3425 jhon3425   36 Sep 27 20:14 4-lastlines
+-rwxrwxrwx 1 jhon3425 jhon3425   35 Sep 27 20:18 5-firstlines
+-rwxrwxrwx 1 jhon3425 jhon3425   40 Sep 27 20:21 6-third_line
+-rwxrwxrwx 1 jhon3425 jhon3425   99 Sep 27 20:33 7-file
+-rwxrwxrwx 1 jhon3425 jhon3425   36 Sep 27 20:38 8-cwd_state
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 19:59 9-duplicate_last_line
+-rwxrwxrwx 1 jhon3425 jhon3425  920 Sep 27 18:34 README.md
+-rwxrwxrwx 1 jhon3425 jhon3425   12 Sep 27 20:34 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rwxrwxrwx 1 jhon3425 jhon3425  801 Sep 27 20:23 iacta
+-rwxrwxrwx 1 jhon3425 jhon3425    0 Sep 27 20:38 ls_cwd_content
