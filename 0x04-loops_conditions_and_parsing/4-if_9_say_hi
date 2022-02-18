@@ -3,12 +3,12 @@
 
 i=0
 while [ $i -le 10 ]
-do
-    if [ $i = 9 ]
-    then
-        echo "Hi"
-    else
-        echo "Best School"
-    fi
-    let i+=1
-done
+	do
+	if [ $i = 9 ]
+	then
+		echo "Hi"
+	else
+		echo "Best School"
+	fi
+	let i+=1
+	done
