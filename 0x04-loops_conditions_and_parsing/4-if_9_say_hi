@@ -9,6 +9,6 @@ while [ $i -le 10 ]
 		echo "Hi"
 	else
 		echo "Best School"
-	fi
+	if
 	let i+=1
 	done
