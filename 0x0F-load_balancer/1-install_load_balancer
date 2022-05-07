@@ -11,7 +11,7 @@ echo -e "frontend htt_format
 \tdefault_backend http_back\n
 backend http_back
 \tbalance roundrobin
-\tserver host_1 54.87.104.124
-\tserver host_2 54.90.78.63" >> /etc/haproxy/haproxy.cfg
+\tserver host_1 35.196.81.68
+\tserver host_2 35.227.113.155" >> /etc/haproxy/haproxy.cfg
 
 sudo service haproxy restart
