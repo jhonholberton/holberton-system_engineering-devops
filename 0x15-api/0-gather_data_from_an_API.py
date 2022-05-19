@@ -3,7 +3,6 @@ import requests
 from sys import argv
 """accessing a url with employee ID to return information."""
 
-
 if __name__ == "__main__":
 
     ID = int(argv[1])
