@@ -6,6 +6,7 @@ returns information about his/her list progress."""
 
 
 if __name__ == "__main__":
+    """function to get employees todo list progress"""
 
     ID = int(argv[1])
     user = requests.get("https://jsonplaceholder.typicode.com/users/{}".
