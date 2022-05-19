@@ -2,6 +2,10 @@
 
 # API
 
+## Description
+
+The aim of this project is to write automated tasks in Python instead of Bash. Those tasks focus on getting data from an API and exporting it in JSON or CSV format.
+
 ## What's an API?
 
 An API is a set of definitions and protocols for building and integrating application software. It’s sometimes referred to as a contract between an information provider and an information user—establishing the content required from the consumer (the call) and the content required by the producer (the response). For example, the API design for a weather service could specify that the user supply a zip code and that the producer reply with a 2-part answer, the first being the high temperature, and the second being the low.  
