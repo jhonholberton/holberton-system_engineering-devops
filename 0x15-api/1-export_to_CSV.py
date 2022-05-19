@@ -2,9 +2,16 @@
 import csv
 import requests
 from sys import argv
-"""export data in the CSV format"""
+"""
+accessing a url with employee ID to return information
+"""
+
 
 if __name__ == "__main__":
+    """
+    function to export the data into
+    csv file
+    """
     ID = int(argv[1])
     user = requests.get("https://jsonplaceholder.typicode.com/users/{}".
                         format(ID)).json()
