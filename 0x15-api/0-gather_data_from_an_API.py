@@ -1,12 +1,10 @@
 #!/usr/bin/python3
 import requests
 from sys import argv
-"""Write a Python script that, using this REST API, for a given employee ID,
-returns information about his/her list progress."""
+"""accessing a url with employee ID to return information."""
 
 
 if __name__ == "__main__":
-    """function to get employees todo list progress"""
 
     ID = int(argv[1])
     user = requests.get("https://jsonplaceholder.typicode.com/users/{}".
