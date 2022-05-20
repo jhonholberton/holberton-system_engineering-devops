@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-import requests
-from sys import argv
 """accessing a url with employee ID to return information."""
 
 if __name__ == "__main__":
+    import requests
+    from sys import argv
 
     ID = int(argv[1])
     user = requests.get("https://jsonplaceholder.typicode.com/users/{}".
