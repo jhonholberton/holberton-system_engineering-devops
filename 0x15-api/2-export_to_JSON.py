@@ -1,10 +1,11 @@
 #!/usr/bin/python3
-import json
-import requests
-from sys import argv
 """ export data in the JSON format."""
 
 if __name__ == "__main__":
+    import json
+    import requests
+    from sys import argv
+
     ID = argv[1]
     user = requests.get("https://jsonplaceholder.typicode.com/users/{}".
                         format(ID), verify=False).json()
