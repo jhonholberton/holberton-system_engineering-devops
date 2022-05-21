@@ -1,4 +1,4 @@
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/314/WIxXad8.png" style="height:10%;width:100%" />
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/314/WIxXad8.png" style="height:100%;width:100%" />
 
 # API advanced
 
